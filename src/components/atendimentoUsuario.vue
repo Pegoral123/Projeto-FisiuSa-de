@@ -44,14 +44,14 @@ export default {
 
 <style>
 .branco {
-  background-color: #e6e6e6;
+    background-color: #fefefe
 }
 
 .cinza {
-  background-color: #cccccc;
+    background-color: #b1ada1
 }
 
 .amarelo {
-  background-color: #ffe680;
+    background-color: #f8866b
 }
 </style>

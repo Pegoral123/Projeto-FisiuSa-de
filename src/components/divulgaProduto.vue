@@ -1,14 +1,14 @@
 <template>
   <section id="inicio" class="py-6">
     <div class="cinza">
-      <div class="container py-1">
+      <div class="container ">
         <div><a>FisioSaúde</a> > <a>Saúde</a> > <a>Fisioterapia</a></div>
       </div>
     </div>
-    <div class="container py-4">
+    <div class=" container py-4">
       <div class="row">
-        <div class="col-12">
-          <div class="col-8">
+        <div class="col-8">
+          <div class="col-12">
             <div>
               <h1>Precisando de Fisioterapeuta?</h1>
               <h6>
@@ -16,7 +16,7 @@
                 municipio de mage!!
               </h6>
             </div>
-            <div class="col-12pt-4 px-3">
+            <div class="col-12 pt-4 px-3">
               <i class="bi bi-bookmark-check-fill"></i>
               <a>Até dois orçamentos gratis e seguros</a>
               <div class="px-4">
@@ -26,11 +26,16 @@
               </div>
             </div>
           </div>
-
-          <div class="col-4"></div>
+       
         </div>
+         <div class="col-4">
+         <div class="col-12">
+           <img src="../assets/foto-propaganda.jpeg" class="img-fluid">
+         </div>
       </div>
-    </div>
+         </div>
+      </div>
+   
   </section>
 </template>
 
@@ -42,14 +47,14 @@ export default {
 
 <style>
 .branco {
-  background-color: #e6e6e6;
+    background-color: #fefefe
 }
 
 .cinza {
-  background-color: #cccccc;
+    background-color: #b1ada1
 }
 
 .amarelo {
-  background-color: #ffe680;
+    background-color: #f8866b
 }
 </style>

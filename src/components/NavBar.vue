@@ -17,6 +17,8 @@ export default {
 };
 </script>
 
-
 <style>
+.border{
+border-block-color:#f9876c
+}
 </style>
