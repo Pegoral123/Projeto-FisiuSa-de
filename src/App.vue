@@ -2,12 +2,16 @@
   <NavBar />
   <divulgaProduto />
   <atendimentoUsuario />
+  <divulgaCliente />
+  <rodapePage />
 </template>
 
 <script>
 import NavBar from "./components/NavBar.vue";
 import divulgaProduto from "./components/divulgaProduto.vue";
 import atendimentoUsuario from "./components/atendimentoUsuario.vue";
+import divulgaCliente from "./components/divulgaCliente.vue";
+import rodapePage from "./components/rodapePage.vue";
 
 export default {
   name: "App",
@@ -15,6 +19,8 @@ export default {
     NavBar,
     divulgaProduto,
     atendimentoUsuario,
+    divulgaCliente,
+    rodapePage,
   },
 };
 </script>

@@ -20,9 +20,9 @@
               <i class="bi bi-bookmark-check-fill"></i>
               <a>Até dois orçamentos gratis e seguros</a>
               <div class="px-4">
-                <a>Avaliados em</a> <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
-                <i class="bi bi-star-fill"></i> <i class="bi bi-star-fill"></i>
+                <a>Avaliados em</a> <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i> <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i> <i class="bi bi-star-fill font"></i>
               </div>
             </div>
           </div>
@@ -57,4 +57,5 @@ export default {
 .amarelo {
     background-color: #f8866b
 }
+
 </style>

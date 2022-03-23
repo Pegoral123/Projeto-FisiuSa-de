@@ -26,10 +26,24 @@
         </div>
       </div>
       <div class="col-4">
-        <div clas="border border-dark">
-          <div>
-            <h4>Avaliações de quem contratou:</h4>
+        <div>
+          <h4>Avaliações de quem contratou os serviço FisiuSaude</h4>
+      </div>
+         <div class="col-12 py-4">
+           <div class="border border-dark p-3">
+         <div > 
+              <h5>João Motta avaliou:</h5>
           </div>
+         <div>
+            <a>A melhore profissionai da área que tem na minha região. Super recomendo.</a>
+           </div>
+           <div>
+             <i class="bi bi-star-fill font"></i>
+             <i class="bi bi-star-fill font"></i>
+             <i class="bi bi-star-fill font"></i>
+             <i class="bi bi-star-fill font"></i>
+             </div>
+           </div> 
         </div>
       </div>
     </div>
@@ -54,4 +68,9 @@ export default {
 .amarelo {
     background-color: #f8866b
 }
+.font{
+  font-size: 20px;
+  color: #ecc661
+}
+
 </style>
