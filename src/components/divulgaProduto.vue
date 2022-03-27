@@ -1,11 +1,11 @@
 <template>
-  <section id="inicio" class="py-6">
+  <section id="inicio" class="pt-6">
     <div class="cinza">
-      <div class="container ">
+      <div class="container">
         <div><a>FisioSaúde</a> > <a>Saúde</a> > <a>Fisioterapia</a></div>
       </div>
     </div>
-    <div class=" container py-4">
+    <div class="container pt-4">
       <div class="row">
         <div class="col-8">
           <div class="col-12">
@@ -21,21 +21,21 @@
               <a>Até dois orçamentos gratis e seguros</a>
               <div class="px-4">
                 <a>Avaliados em</a> <i class="bi bi-star-fill font"></i>
-                <i class="bi bi-star-fill font"></i> <i class="bi bi-star-fill font"></i>
-                <i class="bi bi-star-fill font"></i> <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i>
+                <i class="bi bi-star-fill font"></i>
               </div>
             </div>
           </div>
-       
         </div>
-         <div class="col-4">
-         <div class="col-12">
-           <img src="../assets/foto-propaganda.jpeg" class="img-fluid">
-         </div>
+        <div class="col-4">
+          <div class="col-12">
+            <img src="../assets/foto-propaganda011.jpeg" class="img-fluid" />
+          </div>
+        </div>
       </div>
-         </div>
-      </div>
-   
+    </div>
   </section>
 </template>
 
@@ -47,15 +47,14 @@ export default {
 
 <style>
 .branco {
-    background-color: #fefefe
+  background-color: #fefefe;
 }
 
 .cinza {
-    background-color: #b1ada1
+  background-color: #b1ada1;
 }
 
 .amarelo {
-    background-color: #f8866b
+  background-color: #f8866b;
 }
-
 </style>
