@@ -1,10 +1,5 @@
 <template>
   <section id="inicio" class="pt-6">
-    <div class="cinza">
-      <div class="container">
-        <div><a>FisioSaúde</a> > <a>Saúde</a> > <a>Fisioterapia</a></div>
-      </div>
-    </div>
     <div class="container pt-4">
       <div class="row">
         <div class="col-8">

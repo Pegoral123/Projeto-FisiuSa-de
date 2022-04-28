@@ -9,6 +9,9 @@
       </form>
     </div>
   </nav>
+  <div class="cinza">
+    <div><a>FisioSaúde</a> > <a>Saúde</a> > <a>Fisioterapia</a></div>
+  </div>
 </template>
 
 <script>
@@ -18,7 +21,7 @@ export default {
 </script>
 
 <style>
-.border{
-border-block-color:#f9876c
+.border {
+  border-block-color: #f9876c;
 }
 </style>

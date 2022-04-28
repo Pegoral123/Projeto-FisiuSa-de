@@ -1,8 +1,8 @@
 <template>
   <NavBar />
+  <divulgaCliente />
   <divulgaProduto />
   <atendimentoUsuario />
-  <divulgaCliente />
   <rodapePage />
 </template>
 
